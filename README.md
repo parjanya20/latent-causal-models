@@ -1,5 +1,5 @@
 # Causal Discovery For Latent Causal Models
-Code for ICLR 2025 paper - Differentiable Causal Discovery For Latent Hierarchical Causal Models (https://arxiv.org/abs/2411.19556)
+Code for Differentiable Causal Discovery For Latent Hierarchical Causal Models (ICLR 2025) (https://arxiv.org/abs/2411.19556)
 
 ## Requirements
 
